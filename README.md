@@ -1,2 +1,2 @@
-# codingTest
-my coding test codes
+# 코딩 테스트 문제 풀이
+코딩테스트 문제 풀이
